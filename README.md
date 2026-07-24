@@ -76,5 +76,10 @@ Our code is primarily based on [LAVISH](https://github.com/GenjiB/LAVISH) (AVE &
 If you find CoLA useful in your research, please consider citing:
 
 ```bibtex
-
+@article{suharitdamrong2026cola,
+  title={CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks},
+  author={Suharitdamrong, Wish and Alex, Tony and Awais, Muhammad and Atito, Sara},
+  journal={arXiv preprint arXiv:2604.03314},
+  year={2026}
+}
 ```
