@@ -1,0 +1,46 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+
+# ---- Virtual envs ----
+.venv/
+venv/
+env/
+ENV/
+*.conda
+.python-version
+
+# ---- Logs / run outputs ----
+train_logs/
+test_logs/
+logs/
+*.log
+wandb/
+runs/
+events.out.tfevents.*
+
+# ---- Checkpoints / weights / large artifacts ----
+*.pth
+*.pt
+*.ckpt
+*.bin
+*.safetensors
+*.h5
+*.npy
+*.npz
+*.pkl
+
+# ---- OS / editor ----
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

@@ -1,0 +1,4 @@
+from ._features_fx import *
+
+import warnings
+warnings.warn(f"Importing from {__name__} is deprecated, please import via custom_timm.models", DeprecationWarning)
