@@ -18,10 +18,17 @@ We evaluate CoLA on three multimodal downstream tasks:
 
 ## 📋 Table of Contents
 
+- [🖼️ Poster](#-poster)
 - [📦 Repository Structure](#-repository-structure)
 - [🚀 Tasks](#-tasks)
 - [🙏 Acknowledgements](#-acknowledgements)
 - [📜 Citation](#-citation)
+
+## 🖼️ Poster
+
+<div align="center">
+  <img src="https://icml.cc/media/PosterPDFs/ICML%202026/65985.png" width="850" alt="CoLA — ICML 2026 poster" />
+</div>
 
 ## 📦 Repository Structure
 
