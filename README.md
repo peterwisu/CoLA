@@ -3,10 +3,10 @@
 
   # 🥤 CoLA: Cross-Modal Low-rank Adaptation for Multimodal Downstream Tasks
 
-  [![Conference](https://img.shields.io/badge/ICML-2026-blue)]()
+  [![Conference](https://img.shields.io/badge/ICML-2026-blue)](https://icml.cc/virtual/2026/poster/65985)
   [![arXiv](https://img.shields.io/badge/arXiv-2604.03314-b31b1b.svg)](https://arxiv.org/abs/2604.03314)
 
-  📄 [**Paper**](https://arxiv.org/abs/2604.03314)
+  📄 [**Paper**](https://arxiv.org/abs/2604.03314) &nbsp;|&nbsp; 🔗 [**ICML 2026 Poster**](https://icml.cc/virtual/2026/poster/65985)
 </div>
 
 Official implementation of **CoLA: Cross-Modal Low-rank Adaptation for Multimodal
